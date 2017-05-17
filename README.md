@@ -74,10 +74,6 @@ We use [x] for versioning. For the versions available, see the [x].
 
 **Margot Jonker** - [Margot](https://github.com/margotjonker)
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/margot/Trial/contributors) who participated in this project.
-
 ## License
 
 
