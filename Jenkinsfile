@@ -10,8 +10,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Testing..'
-                git status
-            }
+               }
         }
         stage('Deploy') {
             steps {
