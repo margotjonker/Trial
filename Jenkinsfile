@@ -1,7 +1,11 @@
 pipeline {
     agent any
 
-    stages {
+    node {
+    git url: 'https://github.com/margotjonker/Trial.git'
+    bat "git status"}
+    
+        stages {
         stage('Build') {
             steps {
                 echo 'Building..'
